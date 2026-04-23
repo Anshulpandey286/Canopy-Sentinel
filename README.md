@@ -62,7 +62,11 @@ Click Run ▶️ or press Shift + F10
 This project was developed as part of a collaborative team effort:
 
 Anshul Pandey – Maintainer / Repository Owner
+
 Kwaish Chainani
+
 Parv Kajla
+
 Pari Rastogi
+
 Vayu Nandan Tripathi
